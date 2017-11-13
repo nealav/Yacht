@@ -1,12 +1,3 @@
-/*
-Neal Viswanath
-CSE 240, MTWTF
-Professor Selgrad
-Assignment#1
-*/
-
-
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime> //for rand-seeding
